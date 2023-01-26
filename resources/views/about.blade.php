@@ -51,7 +51,7 @@
                     </div>
                     <div class="col-md-12 text-center">
                         <div class="pt-2">
-                            <h5 class="mt-4 font-weight-medium mb-0">Wahyu hidayat</h5>
+                            <h5 class="mt-4 font-weight-medium mb-0">Wahyu Hidayat</h5>
                             <h6 class="subtitle mb-3">system analys
                             </h6>
                             <p>Bertanggung jawab untuk mengumpulkan kebutuhan pengguna, menganalisis kebutuhan sistem
@@ -83,7 +83,7 @@
                     </div>
                     <div class="col-md-12 text-center">
                         <div class="pt-2">
-                            <h5 class="mt-4 font-weight-medium mb-0">Gilang damar maulana</h5>
+                            <h5 class="mt-4 font-weight-medium mb-0">Gilang Damar Maulana</h5>
                             <h6 class="subtitle mb-3">Front-end Development
                             </h6>
                             <p>Bertugas menangani dan melalukan implementasi bagian yang terlihat oleh pengguna.
